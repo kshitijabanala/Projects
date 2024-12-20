@@ -1,0 +1,605 @@
+Index,Program.Name,City,Country,Region,College
+1,"Amsterdam, Netherlands: Dutch Criminal and Social Justice (Summer)",multiple cities,Netherlands,Europe,The Pennsylvania State University
+2,"Arusha, Tanzania: Biology of Eco-Health (Summer)",multiple cities,Tanzania,Africa,The Pennsylvania State University
+3,"Athens, Greece: History, Culture, and Archaeology of Greece",multiple cities,Greece,Europe,The Pennsylvania State University
+4,"Barcelona, Spain: Landscape Architecture, Dept LARCH (Summer)",multiple cities,Spain,Europe,The Pennsylvania State University
+5,"Besancon, France: Intensive French Language and Cultural Immersion (Summer)",Besançon,France,Europe,The Pennsylvania State University
+6,"Brno, Czech Republic: Business in Central Europe (Summer)",multiple cities,Austria,Europe,The Pennsylvania State University
+7,"Brno, Czech Republic: Business in Central Europe (Summer)",multiple cities,Czech Republic,Europe,The Pennsylvania State University
+8,"Brno, Czech Republic: Business in Central Europe (Summer)",multiple cities,Hungary,Europe,The Pennsylvania State University
+9,"Brno, Czech Republic: Business in Central Europe (Summer)",multiple cities,Poland,Europe,The Pennsylvania State University
+10,"Cadiz, Spain: Spanish Language and Culture (Summer)",multiple cities,Spain,Europe,The Pennsylvania State University
+11,"Cairo, Egypt: Ancient Egyptian History (Summer)",multiple cities,Egypt,multiple regions,The Pennsylvania State University
+12,"Cape Town, South Africa: Women's Gender and Reproductive Studies (Maymester)",Cape Town,South Africa,Africa,The Pennsylvania State University
+13,"Como, Italy: Cross-cultural Engagement and Technical Presentation for Engineers (Summer)",Como,Italy,Europe,The Pennsylvania State University
+14,"Copenhagen, Denmark: Biking Culture and Urban Design (Maymester)",Copenhagen,Denmark,Europe,The Pennsylvania State University
+15,"Dublin, Ireland: Communication, Arts, and Sciences in Ireland (Maymester)",multiple cities,Ireland,Europe,The Pennsylvania State University
+16,"Dublin, Ireland: Culture and Disability (Summer)",multiple cities,Ireland,Europe,The Pennsylvania State University
+17,"Dublin, Ireland: Ireland's Equine Industry (Maymester)",multiple cities,Ireland,Europe,The Pennsylvania State University
+18,"Dublin, Ireland: Representing the Irish Landscape, Literature and Visual Arts (Summer)",multiple cities,Ireland,Europe,The Pennsylvania State University
+19,"Edinburgh, Scotland: Sustainability in Landscape (Summer)",multiple cities,United Kingdom,Europe,The Pennsylvania State University
+20,"Florence, Italy: HDFS in Florence, Dept HDFS (Summer)",multiple cities,Italy,Europe,The Pennsylvania State University
+21,"Florence, Italy: The World of Business and Italian Culture, Dept BUS (Summer)",Florence,Italy,Europe,The Pennsylvania State University
+22,"Galapagos, Ecuador: Engineering Design, Dept EDSGN (Maymester)",multiple cities,Ecuador,South America,The Pennsylvania State University
+23,Global Health Fieldwork Experience in Ecuador,multiple cities,Ecuador,multiple regions,The Pennsylvania State University
+24,Global Health Fieldwork Experience in South Africa,multiple cities,South Africa,Africa,The Pennsylvania State University
+25,"Grenada, West Indies: Pre-Med at St. George's University (Summer)",Saint George's,Grenada,Latin America,The Pennsylvania State University
+26,Korea/Japan: Summer Study Abroad for Design Majors (Summer),multiple cities,Japan,Asia,The Pennsylvania State University
+27,Korea/Japan: Summer Study Abroad for Design Majors (Summer),multiple cities,South Korea,Asia,The Pennsylvania State University
+28,"Lima, Peru: Cross-cultural Engagement (Maymester)",multiple cities,Peru,multiple regions,The Pennsylvania State University
+29,"Lisbon, Portugal: Penn State in Portugal (Maymester)",Lisbon,Portugal,Europe,The Pennsylvania State University
+30,"London, United Kingdom: Adulthood and Families (Maymester)",London,United Kingdom,Europe,The Pennsylvania State University
+31,"London, United Kingdom: Business in London (Maymester)",multiple cities,United Kingdom,Europe,The Pennsylvania State University
+32,"London, United Kingdom: Literary London (Summer)",multiple cities,United Kingdom,Europe,The Pennsylvania State University
+33,"London, United Kingdom: Theatre Studies Program (Maymester)",London,United Kingdom,Europe,The Pennsylvania State University
+34,"Manaus, Brazil: Mechanical Engineering and Research (Summer)",Manaus,Brazil,South America,The Pennsylvania State University
+35,"Monteverde, Costa Rica: Sustainability in Business (Maymester)",multiple cities,Costa Rica,multiple regions,The Pennsylvania State University
+36,"Navarra, Spain: Engineering Design, Dept EDSGN (Maymester)",San Sebastian,Spain,Europe,The Pennsylvania State University
+37,"Oaxaca, Mexico: Culture and Communities (Maymester)",multiple cities,Mexico,multiple regions,The Pennsylvania State University
+38,"Oxford, United Kingdom: Medical Humanities (Summer)",multiple cities,United Kingdom,Europe,The Pennsylvania State University
+39,"Palermo, Italy: Organized Crime in Film & Society (Maymester)",multiple cities,Italy,Europe,The Pennsylvania State University
+40,"Puebla, Mexico: Spanish Language and Mexican Culture (Summer)",multiple cities,Mexico,multiple regions,The Pennsylvania State University
+41,"Rome, Italy: Architectural Engineering, Dept A E (Summer)",multiple cities,Italy,Europe,The Pennsylvania State University
+42,"Rome, Italy: Study Tour of Roman History and Archaeology (Summer)",multiple cities,Italy,Europe,The Pennsylvania State University
+43,"Ronda, Spain: Spanish Language and Culture (Summer)",multiple cities,Spain,Europe,The Pennsylvania State University
+44,"Salerno, Italy: Language and Culture (Summer)",Salerno,Italy,Europe,The Pennsylvania State University
+45,"Seoul, Korea: Sociology and Culture in Korea (Maymester)",multiple cities,South Korea,Asia,The Pennsylvania State University
+46,"Shanghai, China: Food Chemistry in Chinese Cuisines (Maymester)",multiple cities,China,Asia,The Pennsylvania State University
+47,Singapore: Business in Asia (Maymester),multiple cities,Malaysia,Asia,The Pennsylvania State University
+48,Singapore: Business in Asia (Maymester),multiple cities,Singapore,Asia,The Pennsylvania State University
+49,"Singapore: National University of Singapore, Dept EDSGN (Maymester)",Singapore,Singapore,Asia,The Pennsylvania State University
+50,"Todi, Italy: Italian Language, History, and Culture (Summer)",multiple cities,Italy,Europe,The Pennsylvania State University
+51,"Toronto, Canada: North American Politics (Summer)",Toronto,Canada,North America,The Pennsylvania State University
+52,"West London, United Kingdom: Kinesiology, Youth Sport and Athletic Welfare (Summer)",London,United Kingdom,Europe,The Pennsylvania State University
+53,"Zagreb, Croatia: Innovation and Entrepreneurship in Croatia (Maymester)",multiple cities,Croatia,Europe,The Pennsylvania State University
+54,"Abington: Hof, University of Applied Sciences Hof
+(Exchange)",Hof,Germany,Europe,The Pennsylvania State University
+55,AIFS: Barcelona (Maymester),Barcelona,Spain,Europe,The Pennsylvania State University
+56,Arcadia STEM Summer Research,multiple cities,Ireland,Europe,The Pennsylvania State University
+57,Arcadia STEM Summer Research,multiple cities,Italy,Europe,The Pennsylvania State University
+58,Arcadia STEM Summer Research,multiple cities,Spain,Europe,The Pennsylvania State University
+59,Arcadia STEM Summer Research,multiple cities,United Kingdom,Europe,The Pennsylvania State University
+60,Arcadia: Arcadia in London + Internship,London,United Kingdom,Europe,The Pennsylvania State University
+61,Arcadia: Arcadia in London + Internship (Summer),London,United Kingdom,Europe,The Pennsylvania State University
+62,"Arcadia: Brisbane, University of Queensland",Brisbane,Australia,Oceania,The Pennsylvania State University
+63,Arcadia: Edinburgh Napier University,Edinburgh,United Kingdom,Europe,The Pennsylvania State University
+64,"Arcadia: Galway, University of Galway",Galway,Ireland,Europe,The Pennsylvania State University
+65,"Arcadia: London, University of Westminster",London,United Kingdom,Europe,The Pennsylvania State University
+66,"Auckland: University of Auckland
+(Exchange)",Auckland,New Zealand,Oceania,The Pennsylvania State University
+67,"Brighton: University of Sussex
+(Exchange)",Brighton,United Kingdom,Europe,The Pennsylvania State University
+68,Brighton: University of Sussex (Summer),Brighton,United Kingdom,Europe,The Pennsylvania State University
+69,"Brno: Masaryk University, Research Lab (Summer)",Brno,Czech Republic,Europe,The Pennsylvania State University
+70,CEA CAPA: French Riviera,Antibes,France,Europe,The Pennsylvania State University
+71,CELA: Belize (Summer),Belize City,Belize,Latin America,The Pennsylvania State University
+72,"Center for European Studies: Maastricht, Maastricht University",Maastricht,Netherlands,Europe,The Pennsylvania State University
+73,CET: Brazil,Sao Paulo,Brazil,South America,The Pennsylvania State University
+74,Christchurch: Lincoln University,Lincoln,New Zealand,Oceania,The Pennsylvania State University
+75,CIEE: Alicante,Alicante,Spain,Europe,The Pennsylvania State University
+76,CIEE: Amman,Amman,Jordan,Middle East,The Pennsylvania State University
+77,"CIEE: Amman, Arabic Language (Summer)",Amman,Jordan,Middle East,The Pennsylvania State University
+78,"CIEE: Amman, Middle East Studies (Summer)",Amman,Jordan,Middle East,The Pennsylvania State University
+79,"CIEE: Cape Town, Arts and Sciences",Cape Town,South Africa,Africa,The Pennsylvania State University
+80,"CIEE: Gaborone, Wildlife Ecology + Conservation (Summer)",Gaborone,Botswana,Africa,The Pennsylvania State University
+81,CIEE: Legon,Legon,Ghana,Africa,The Pennsylvania State University
+82,CIEE: Lisbon,Lisbon,Portugal,Europe,The Pennsylvania State University
+83,CIEE: Open Campus,multiple cities,Argentina,multiple regions,The Pennsylvania State University
+84,CIEE: Open Campus,multiple cities,Australia,multiple regions,The Pennsylvania State University
+85,CIEE: Open Campus,multiple cities,Chile,multiple regions,The Pennsylvania State University
+86,CIEE: Open Campus,multiple cities,China,multiple regions,The Pennsylvania State University
+87,CIEE: Open Campus,multiple cities,Costa Rica,multiple regions,The Pennsylvania State University
+88,CIEE: Open Campus,multiple cities,Czech Republic,multiple regions,The Pennsylvania State University
+89,CIEE: Open Campus,multiple cities,Denmark,multiple regions,The Pennsylvania State University
+90,CIEE: Open Campus,multiple cities,France,multiple regions,The Pennsylvania State University
+91,CIEE: Open Campus,multiple cities,Germany,multiple regions,The Pennsylvania State University
+92,CIEE: Open Campus,multiple cities,Ireland,multiple regions,The Pennsylvania State University
+93,CIEE: Open Campus,multiple cities,Italy,multiple regions,The Pennsylvania State University
+94,CIEE: Open Campus,multiple cities,Japan,multiple regions,The Pennsylvania State University
+95,CIEE: Open Campus,multiple cities,Mexico,multiple regions,The Pennsylvania State University
+96,CIEE: Open Campus,multiple cities,Netherlands,multiple regions,The Pennsylvania State University
+97,CIEE: Open Campus,multiple cities,Singapore,multiple regions,The Pennsylvania State University
+98,CIEE: Open Campus,multiple cities,South Africa,multiple regions,The Pennsylvania State University
+99,CIEE: Open Campus,multiple cities,South Korea,multiple regions,The Pennsylvania State University
+100,CIEE: Open Campus,multiple cities,Spain,multiple regions,The Pennsylvania State University
+101,CIEE: Open Campus,multiple cities,United Kingdom,multiple regions,The Pennsylvania State University
+102,CIEE: Prague,Prague,Czech Republic,Europe,The Pennsylvania State University
+103,"CIEE: Santiago, Dominican Republic, Liberal Arts",Santiago,Dominican Republic,Latin America,The Pennsylvania State University
+104,CIEE: Seoul,Seoul,South Korea,Asia,The Pennsylvania State University
+105,CIEE: Seoul (Summer),Seoul,South Korea,Asia,The Pennsylvania State University
+106,CIEE: Seville,Seville,Spain,Europe,The Pennsylvania State University
+107,"CIEE: Seville, Language and Culture (Summer)",Seville,Spain,Europe,The Pennsylvania State University
+108,CIEE: Shanghai,Shanghai,China,Asia,The Pennsylvania State University
+109,CIEE: Shanghai (Summer),Shanghai,China,Asia,The Pennsylvania State University
+110,CIEE: Singapore,Singapore,Singapore,Asia,The Pennsylvania State University
+111,Connect 123: Buenos Aires Internship (Summer),Buenos Aires,Argentina,Latin America,The Pennsylvania State University
+112,Connect 123: Cape Town Internship (Summer),Cape Town,South Africa,Africa,The Pennsylvania State University
+113,Connect 123: Sydney Internship (Summer),Sydney,Australia,Oceania,The Pennsylvania State University
+114,CRCC Asia: Seoul Internship (Summer),Seoul,South Korea,Asia,The Pennsylvania State University
+115,CRCC Asia: Shanghai Internship (Summer),Shanghai,China,Asia,The Pennsylvania State University
+116,CRCC Asia: Tokyo Internship (Summer),Tokyo,Japan,Asia,The Pennsylvania State University
+117,CzechMates: Brno,Brno,Czech Republic,Europe,The Pennsylvania State University
+118,"CzechMates: Brno, Internship and Summer Course (Summer)",multiple cities,Austria,Europe,The Pennsylvania State University
+119,"CzechMates: Brno, Internship and Summer Course (Summer)",multiple cities,Czech Republic,Europe,The Pennsylvania State University
+120,"CzechMates: Brno, Internship and Summer Course (Summer)",multiple cities,Hungary,Europe,The Pennsylvania State University
+121,"CzechMates: Brno, Internship and Summer Course (Summer)",multiple cities,Poland,Europe,The Pennsylvania State University
+122,"Dept AGR: Nottingham, University of Nottingham
+(Exchange)",Nottingham,United Kingdom,Europe,The Pennsylvania State University
+123,"Dept ARCH: Rome, Pantheon Institute, Architecture",Rome,Italy,Europe,The Pennsylvania State University
+124,"Dept ENGR & EMS: Sendai, Tohoku University
+(Exchange)",Sendai,Japan,Asia,The Pennsylvania State University
+125,"Dept ENGR & EMS: Sendai, Tohoku University STEM Summer Program (Summer)",Sendai,Japan,Asia,The Pennsylvania State University
+126,"Dept ENGR: Haifa, Technion Institute of Technology
+(Exchange)",Haifa,Israel,Middle East,The Pennsylvania State University
+127,"Dept ENGR: Jonkoping, Jonkoping University, Engineering
+(Exchange)",Jonkoping,Sweden,Europe,The Pennsylvania State University
+128,"Dept ENGR: Lyon, INNOV@INSA (Summer)",Lyon,France,Europe,The Pennsylvania State University
+129,Dept ENGR: Pforzheim Engineers Made in Germany (Summer),Pforzheim,Germany,Europe,The Pennsylvania State University
+130,"Dept ENGR: San Sebastian, Tecnun University of Navarra
+(Exchange)",San Sebastian,Spain,Europe,The Pennsylvania State University
+131,"Dept ENGR: Southampton, University of Southampton
+(Exchange)",Southampton,United Kingdom,Europe,The Pennsylvania State University
+132,"Dept Kines: Loughborough, Loughborough University
+(Exchange)",Loughborough,United Kingdom,Europe,The Pennsylvania State University
+133,"Dept LARCH: Bonn, AIB",Bonn,Germany,Europe,The Pennsylvania State University
+134,"Dept MARSC: Southampton, University of Southampton
+(Exchange)",Southampton,United Kingdom,Europe,The Pennsylvania State University
+135,"DIS: Copenhagen, Study in Copenhagen",Copenhagen,Denmark,Europe,The Pennsylvania State University
+136,"DIS: Stockholm, Study in Stockholm",Stockholm,Sweden,Europe,The Pennsylvania State University
+137,DIS: Summer in Scandinavia (Summer),multiple cities,Denmark,Europe,The Pennsylvania State University
+138,DIS: Summer in Scandinavia (Summer),multiple cities,Sweden,Europe,The Pennsylvania State University
+139,Dublin: University College Dublin,Dublin,Ireland,Europe,The Pennsylvania State University
+140,Dublin: University College Dublin Organic Chemistry Program (Summer),Dublin,Ireland,Europe,The Pennsylvania State University
+141,Dublin: University College Dublin Physics Program (Summer),Dublin,Ireland,Europe,The Pennsylvania State University
+142,Dubrovnik: Rochester Institute of Technology (RIT),Dubrovnik,Croatia,Europe,The Pennsylvania State University
+143,Florence and Elba: Marine Biology in Italy (Maymester),multiple cities,Italy,Europe,The Pennsylvania State University
+144,Florence: Florence University of the Arts,Florence,Italy,Europe,The Pennsylvania State University
+145,Florence: Florence University of the Arts (Maymester and Summer),Florence,Italy,Europe,The Pennsylvania State University
+146,Florence: International Studies Institute (ISI) at Palazzo Rucellai,Florence,Italy,Europe,The Pennsylvania State University
+147,Florence: International Studies Institute (ISI) at Palazzo Rucellai (Summer),Florence,Italy,Europe,The Pennsylvania State University
+148,"Freiburg, University of Freiburg
+(Exchange)",Freiburg,Germany,Europe,The Pennsylvania State University
+149,"Freiburg: Goethe-Institut, Intensive German Culture and Language (Summer)",Freiburg,Germany,Europe,The Pennsylvania State University
+150,"Glasgow: University of Glasgow, College of Medical Veterinary & Life Sciences",Glasgow,United Kingdom,Europe,The Pennsylvania State University
+151,"Gold Coast, Bond University",Gold Coast,Australia,Oceania,The Pennsylvania State University
+152,Haifa: University of Haifa,Haifa,Israel,Middle East,The Pennsylvania State University
+153,Hamilton: University of Waikato,Hamilton,New Zealand,Oceania,The Pennsylvania State University
+154,"Harrisburg: Darmstadt, Hochschule Darmstadt University of Applied Sciences
+(Exchange)",Darmstadt,Germany,Europe,The Pennsylvania State University
+155,"Hong Kong: Chinese University of Hong Kong
+(Exchange)",Hong Kong,Hong Kong,Asia,The Pennsylvania State University
+156,"Hong Kong: Hong Kong Polytechnic University
+(Exchange)",Hong Kong,Hong Kong,Asia,The Pennsylvania State University
+157,IAU: Aix-en-Provence Campus,Aix-en-Provence,France,Europe,The Pennsylvania State University
+158,IAU: Aix-en-Provence Campus (Summer),Aix-en-Provence,France,Europe,The Pennsylvania State University
+159,IES: Amsterdam,Amsterdam,Netherlands,Europe,The Pennsylvania State University
+160,IES: Barcelona,Barcelona,Spain,Europe,The Pennsylvania State University
+161,"IES: Barcelona, Engineering",Barcelona,Spain,Europe,The Pennsylvania State University
+162,"IES: Barcelona, Language and Area Studies Program (Summer)",Barcelona,Spain,Europe,The Pennsylvania State University
+163,IES: Berlin Internship Program (Summer),Berlin,Germany,Europe,The Pennsylvania State University
+164,"IES: Berlin, English Taught Programs",Berlin,Germany,Europe,The Pennsylvania State University
+165,"IES: Berlin, Language and Culture (Summer)",Berlin,Germany,Europe,The Pennsylvania State University
+166,"IES: Berlin, Language, Culture, & Politics",Berlin,Germany,Europe,The Pennsylvania State University
+167,"IES: Buenos Aires and Santiago, Emerging Economies",multiple cities,Argentina,Latin America,The Pennsylvania State University
+168,"IES: Buenos Aires and Santiago, Emerging Economies",multiple cities,Chile,Latin America,The Pennsylvania State University
+169,"IES: Buenos Aires and Santiago, Emerging Economies",multiple cities,Peru,Latin America,The Pennsylvania State University
+170,"IES: Buenos Aires, Advanced Spanish Immersion",Buenos Aires,Argentina,Latin America,The Pennsylvania State University
+171,"IES: Buenos Aires, Culture & Language (Summer)",Buenos Aires,Argentina,Latin America,The Pennsylvania State University
+172,"IES: Buenos Aires, Society & Culture",Buenos Aires,Argentina,Latin America,The Pennsylvania State University
+173,"IES: Cape Town, Engineering & Science",Cape Town,South Africa,Africa,The Pennsylvania State University
+174,"IES: Cape Town, Health, Culture & Development",Cape Town,South Africa,Africa,The Pennsylvania State University
+175,IES: Dublin Internship (Summer),Dublin,Ireland,Europe,The Pennsylvania State University
+176,"IES: Dublin, Engineering",Dublin,Ireland,Europe,The Pennsylvania State University
+177,"IES: Dublin, History, Politics, & Social Change",Dublin,Ireland,Europe,The Pennsylvania State University
+178,"IES: Dublin, Trinity College Program",Dublin,Ireland,Europe,The Pennsylvania State University
+179,"IES: Freiburg, Environmental Studies & Sustainability",Freiburg,Germany,Europe,The Pennsylvania State University
+180,"IES: Freiburg, Politics, Law, & Economics",Freiburg,Germany,Europe,The Pennsylvania State University
+181,"IES: Granada, Liberal Arts & Language",Granada,Spain,Europe,The Pennsylvania State University
+182,IES: London Internship (Summer),London,United Kingdom,Europe,The Pennsylvania State University
+183,"IES: London, City St. George's, University of London",London,United Kingdom,Europe,The Pennsylvania State University
+184,"IES: London, Health Practice & Policy",multiple cities,Jamaica,multiple regions,The Pennsylvania State University
+185,"IES: London, Health Practice & Policy",multiple cities,United Kingdom,multiple regions,The Pennsylvania State University
+186,"IES: London, Queen Mary University",London,United Kingdom,Europe,The Pennsylvania State University
+187,"IES: London, Study London",London,United Kingdom,Europe,The Pennsylvania State University
+188,"IES: London, University College London",London,United Kingdom,Europe,The Pennsylvania State University
+189,"IES: Madrid, Business, Economics & Social Sciences",Madrid,Spain,Europe,The Pennsylvania State University
+190,"IES: Madrid, Engineering, Math, and Science",Madrid,Spain,Europe,The Pennsylvania State University
+191,"IES: Madrid, Language & Cultural Studies (Summer)",Madrid,Spain,Europe,The Pennsylvania State University
+192,"IES: Madrid, Language and Area Studies",Madrid,Spain,Europe,The Pennsylvania State University
+193,IES: Milan,Milan,Italy,Europe,The Pennsylvania State University
+194,"IES: Nagoya, Language and Culture (Summer)",Nagoya,Japan,Asia,The Pennsylvania State University
+195,"IES: Nagoya, Nanzan University",Nagoya,Japan,Asia,The Pennsylvania State University
+196,"IES: Oxford, St. Catherine's College",multiple cities,United Kingdom,Europe,The Pennsylvania State University
+197,IES: Paris Internship Program (Summer),Paris,France,Europe,The Pennsylvania State University
+198,"IES: Paris, Business and International Affairs",Paris,France,Europe,The Pennsylvania State University
+199,"IES: Paris, French Studies Program",Paris,France,Europe,The Pennsylvania State University
+200,"IES: Rabat, Study in Rabat",Rabat,Morocco,Middle East,The Pennsylvania State University
+201,IES: Rome,Rome,Italy,Europe,The Pennsylvania State University
+202,IES: Rome Internship Program (Summer),Rome,Italy,Europe,The Pennsylvania State University
+203,"IES: Salamanca, Study in Salamanca",Salamanca,Spain,Europe,The Pennsylvania State University
+204,IES: Santiago Internship Program (Summer),Santiago,Chile,Latin America,The Pennsylvania State University
+205,"IES: Santiago, Chile, Health Studies",Santiago,Chile,Latin America,The Pennsylvania State University
+206,"IES: Santiago, Chile, Politics, Social Justice & Language",Santiago,Chile,Latin America,The Pennsylvania State University
+207,"IES: Santiago, Health Studies (Summer)",Santiago,Chile,Latin America,The Pennsylvania State University
+208,"IES: Siena, Business & Economics of Italian Food & Wine",Siena,Italy,Europe,The Pennsylvania State University
+209,"IES: Siena, Study in Tuscany",Siena,Italy,Europe,The Pennsylvania State University
+210,"IES: Sydney, The University of Sydney",Sydney,Australia,Oceania,The Pennsylvania State University
+211,IES: Tokyo (Summer),Tokyo,Japan,Asia,The Pennsylvania State University
+212,"IES: Tokyo, Language and Culture",Tokyo,Japan,Asia,The Pennsylvania State University
+213,IES: Vienna,Vienna,Austria,Europe,The Pennsylvania State University
+214,IES: Vienna Internship (Summer),Vienna,Austria,Europe,The Pennsylvania State University
+215,IES: Vienna Music History and Performance (Summer),Vienna,Austria,Europe,The Pennsylvania State University
+216,"IES: Vienna, Music Program",Vienna,Austria,Europe,The Pennsylvania State University
+217,"IES: Vienna, Psychology (Summer)",Vienna,Austria,Europe,The Pennsylvania State University
+218,"IFE: Field Study in Marseille, Paris and Strasbourg",multiple cities,France,Europe,The Pennsylvania State University
+219,ISA: EuroScholars,multiple cities,Belgium,Europe,The Pennsylvania State University
+220,ISA: EuroScholars,multiple cities,Netherlands,Europe,The Pennsylvania State University
+221,ISA: EuroScholars,multiple cities,Switzerland,Europe,The Pennsylvania State University
+222,ISA: Madrid Internship (Summer),Madrid,Spain,Europe,The Pennsylvania State University
+223,"Kuala Lumpur: Monash University Malaysia
+(Exchange)",Kuala Lumpur,Malaysia,Asia,The Pennsylvania State University
+224,"Leeds: University of Leeds
+(Exchange)",Leeds,United Kingdom,Europe,The Pennsylvania State University
+225,Leeds: University of Leeds (Summer),multiple cities,United Kingdom,Europe,The Pennsylvania State University
+226,Limerick: University of Limerick,Limerick,Ireland,Europe,The Pennsylvania State University
+227,"London: FSU, Theatre Academy London",London,United Kingdom,Europe,The Pennsylvania State University
+228,"Marburg: Philipps University, Intensive German Studies Program",Marburg,Germany,Europe,The Pennsylvania State University
+229,"Marburg: Philipps University, International Summer University (Summer)",Marburg,Germany,Europe,The Pennsylvania State University
+230,"Marburg: Philipps University, International Undergraduate Study Program",Marburg,Germany,Europe,The Pennsylvania State University
+231,"Melbourne: Monash University
+(Exchange)",Melbourne,Australia,Oceania,The Pennsylvania State University
+232,"Melbourne: University of Melbourne
+(Exchange)",Melbourne,Australia,Oceania,The Pennsylvania State University
+233,"Mito: Ibaraki University
+(Exchange)",Mito,Japan,Asia,The Pennsylvania State University
+234,Paris: AgroParisTech Summer Internship (Summer),Paris,France,Europe,The Pennsylvania State University
+235,Perreault Fellows Program: International Internship and Global Leadership Fellowship,Various,Various,Various,The Pennsylvania State University
+236,Perugia: Umbra Institute,Perugia,Italy,Europe,The Pennsylvania State University
+237,Perugia: Umbra Trasimeno Archaeology Field School (Summer),Perugia,Italy,Europe,The Pennsylvania State University
+238,Remote Internship: IES Abroad,Virtual,Virtual,Virtual,The Pennsylvania State University
+239,"Seoul & Suwon: Sungkyunkwan University
+(Exchange)",multiple cities,South Korea,Asia,The Pennsylvania State University
+240,"Seoul: Sogang University
+(Exchange)",Seoul,South Korea,Asia,The Pennsylvania State University
+241,"Seoul: Sungkyunkwan University, International Summer Semester (Summer)",Seoul,South Korea,Asia,The Pennsylvania State University
+242,SFS: Australia,Yungaburra,Australia,Oceania,The Pennsylvania State University
+243,SFS: Australia (Summer),multiple cities,Australia,multiple regions,The Pennsylvania State University
+244,SFS: Australia (Summer),multiple cities,Indonesia,multiple regions,The Pennsylvania State University
+245,SFS: Bhutan,multiple cities,Bhutan,Asia,The Pennsylvania State University
+246,SFS: Cambodia,Siem Reap,Cambodia,Asia,The Pennsylvania State University
+247,SFS: Costa Rica,Atenas,Costa Rica,Latin America,The Pennsylvania State University
+248,SFS: Kenya,multiple cities,Kenya,Africa,The Pennsylvania State University
+249,SFS: Kenya,multiple cities,Rwanda,Africa,The Pennsylvania State University
+250,SFS: Panama,Bocas del Toro,Panama,Latin America,The Pennsylvania State University
+251,SFS: Tanzania,Rhotia,Tanzania,Africa,The Pennsylvania State University
+252,"SFS: Tanzania and Kenya, Wildlife Management & Conservation (Summer)",multiple cities,Kenya,Africa,The Pennsylvania State University
+253,"SFS: Tanzania and Kenya, Wildlife Management & Conservation (Summer)",multiple cities,Tanzania,Africa,The Pennsylvania State University
+254,SFS: Turks and Caicos (Summer),Grand Turk,Turks and Caicos Islands,Latin America,The Pennsylvania State University
+255,"Singapore: National University of Singapore
+(Exchange)",Singapore,Singapore,Asia,The Pennsylvania State University
+256,SRAS: Intensive Russian Language & Culture (Summer),Riga,Latvia,Europe,The Pennsylvania State University
+257,"Sydney: University of New South Wales
+(Exchange)",Sydney,Australia,Oceania,The Pennsylvania State University
+258,"Tel Aviv: Tel Aviv University, Semester or Year Study Abroad Program",Tel Aviv,Israel,Middle East,The Pennsylvania State University
+259,Temple: Rome,Rome,Italy,Europe,The Pennsylvania State University
+260,The GREEN Program: Iceland (Summer),Reykjavik,Iceland,Europe,The Pennsylvania State University
+261,The GREEN Program: Peru (Summer),Cusco,Peru,South America,The Pennsylvania State University
+262,"Thessaloniki, Greece: Perrotis College (Summer)",Thessaloniki,Greece,Europe,The Pennsylvania State University
+263,"University of Minnesota LAC: Ecuador, Studies in International Development",Quito,Ecuador,South America,The Pennsylvania State University
+264,"University of Minnesota LAC: Montpellier, Language & Culture in Southern France",Montpellier,France,Europe,The Pennsylvania State University
+265,"University of Minnesota LAC: Senegal, Studies in International Development",Dakar,Senegal,Africa,The Pennsylvania State University
+266,"University of Minnesota LAC: Thailand, Studies in International Development",Chiang Mai,Thailand,Asia,The Pennsylvania State University
+267,"Valencia: University of Virginia, Engineering",Valencia,Spain,Europe,The Pennsylvania State University
+268,"Valencia: University of Virginia, Global Health (Summer)",Valencia,Spain,Europe,The Pennsylvania State University
+269,"Valencia: University of Virginia, Language and Culture",Valencia,Spain,Europe,The Pennsylvania State University
+270,Virtual Internship: Connect 123,multiple cities,Argentina,multiple regions,The Pennsylvania State University
+271,Virtual Internship: Connect 123,multiple cities,Australia,multiple regions,The Pennsylvania State University
+272,Virtual Internship: Connect 123,multiple cities,China,multiple regions,The Pennsylvania State University
+273,Virtual Internship: Connect 123,multiple cities,Ireland,multiple regions,The Pennsylvania State University
+274,Virtual Internship: Connect 123,multiple cities,South Africa,multiple regions,The Pennsylvania State University
+275,Virtual Internship: Connect 123,multiple cities,Spain,multiple regions,The Pennsylvania State University
+276,Virtual Internship: Connect 123,multiple cities,Virtual,multiple regions,The Pennsylvania State University
+277,"Wellington: Victoria University of Wellington
+(Exchange)",Wellington,New Zealand,Oceania,The Pennsylvania State University
+278,"Amsterdam, Netherlands: Dutch Criminal and Social Justice (Summer)",multiple cities,Netherlands,Europe,The Ohio State University
+279,"Arusha, Tanzania: Biology of Eco-Health (Summer)",multiple cities,Tanzania,Africa,The Ohio State University
+280,"Athens, Greece: History, Culture, and Archaeology of Greece",multiple cities,Greece,Europe,The Ohio State University
+281,"Barcelona, Spain: Landscape Architecture, Dept LARCH (Summer)",multiple cities,Spain,Europe,The Ohio State University
+282,"Besancon, France: Intensive French Language and Cultural Immersion (Summer)",Besançon,France,Europe,The Ohio State University
+283,"Brno, Czech Republic: Business in Central Europe (Summer)",multiple cities,Austria,Europe,The Ohio State University
+284,"Brno, Czech Republic: Business in Central Europe (Summer)",multiple cities,Czech Republic,Europe,The Ohio State University
+285,"Brno, Czech Republic: Business in Central Europe (Summer)",multiple cities,Hungary,Europe,The Ohio State University
+286,"Brno, Czech Republic: Business in Central Europe (Summer)",multiple cities,Poland,Europe,The Ohio State University
+287,"Cadiz, Spain: Spanish Language and Culture (Summer)",multiple cities,Spain,Europe,The Ohio State University
+288,"Cairo, Egypt: Ancient Egyptian History (Summer)",multiple cities,Egypt,multiple regions,The Ohio State University
+289,"Cape Town, South Africa: Women's Gender and Reproductive Studies (Maymester)",Cape Town,South Africa,Africa,The Ohio State University
+290,"Como, Italy: Cross-cultural Engagement and Technical Presentation for Engineers (Summer)",Como,Italy,Europe,The Ohio State University
+291,"Copenhagen, Denmark: Biking Culture and Urban Design (Maymester)",Copenhagen,Denmark,Europe,The Ohio State University
+292,"Dublin, Ireland: Communication, Arts, and Sciences in Ireland (Maymester)",multiple cities,Ireland,Europe,The Ohio State University
+293,"Dublin, Ireland: Culture and Disability (Summer)",multiple cities,Ireland,Europe,The Ohio State University
+294,"Dublin, Ireland: Ireland's Equine Industry (Maymester)",multiple cities,Ireland,Europe,The Ohio State University
+295,"Dublin, Ireland: Representing the Irish Landscape, Literature and Visual Arts (Summer)",multiple cities,Ireland,Europe,The Ohio State University
+296,"Edinburgh, Scotland: Sustainability in Landscape (Summer)",multiple cities,United Kingdom,Europe,The Ohio State University
+297,"Florence, Italy: HDFS in Florence, Dept HDFS (Summer)",multiple cities,Italy,Europe,The Ohio State University
+298,"Florence, Italy: The World of Business and Italian Culture, Dept BUS (Summer)",Florence,Italy,Europe,The Ohio State University
+299,"Galapagos, Ecuador: Engineering Design, Dept EDSGN (Maymester)",multiple cities,Ecuador,South America,The Ohio State University
+300,Global Health Fieldwork Experience in Ecuador,multiple cities,Ecuador,multiple regions,The Ohio State University
+301,Global Health Fieldwork Experience in South Africa,multiple cities,South Africa,Africa,The Ohio State University
+302,"Grenada, West Indies: Pre-Med at St. George's University (Summer)",Saint George's,Grenada,Latin America,The Ohio State University
+303,Korea/Japan: Summer Study Abroad for Design Majors (Summer),multiple cities,Japan,Asia,The Ohio State University
+304,Korea/Japan: Summer Study Abroad for Design Majors (Summer),multiple cities,South Korea,Asia,The Ohio State University
+305,"Lima, Peru: Cross-cultural Engagement (Maymester)",multiple cities,Peru,multiple regions,The Ohio State University
+306,"Lisbon, Portugal: Penn State in Portugal (Maymester)",Lisbon,Portugal,Europe,The Ohio State University
+307,"London, United Kingdom: Adulthood and Families (Maymester)",London,United Kingdom,Europe,The Ohio State University
+308,"London, United Kingdom: Business in London (Maymester)",multiple cities,United Kingdom,Europe,The Ohio State University
+309,"London, United Kingdom: Literary London (Summer)",multiple cities,United Kingdom,Europe,The Ohio State University
+310,"London, United Kingdom: Theatre Studies Program (Maymester)",London,United Kingdom,Europe,The Ohio State University
+311,"Manaus, Brazil: Mechanical Engineering and Research (Summer)",Manaus,Brazil,South America,The Ohio State University
+312,"Monteverde, Costa Rica: Sustainability in Business (Maymester)",multiple cities,Costa Rica,multiple regions,The Ohio State University
+313,"Navarra, Spain: Engineering Design, Dept EDSGN (Maymester)",San Sebastian,Spain,Europe,The Ohio State University
+314,"Oaxaca, Mexico: Culture and Communities (Maymester)",multiple cities,Mexico,multiple regions,The Ohio State University
+315,"Oxford, United Kingdom: Medical Humanities (Summer)",multiple cities,United Kingdom,Europe,The Ohio State University
+316,"Palermo, Italy: Organized Crime in Film & Society (Maymester)",multiple cities,Italy,Europe,The Ohio State University
+317,"Puebla, Mexico: Spanish Language and Mexican Culture (Summer)",multiple cities,Mexico,multiple regions,The Ohio State University
+318,"Rome, Italy: Architectural Engineering, Dept A E (Summer)",multiple cities,Italy,Europe,The Ohio State University
+319,"Rome, Italy: Study Tour of Roman History and Archaeology (Summer)",multiple cities,Italy,Europe,The Ohio State University
+320,"Ronda, Spain: Spanish Language and Culture (Summer)",multiple cities,Spain,Europe,The Ohio State University
+321,"Salerno, Italy: Language and Culture (Summer)",Salerno,Italy,Europe,The Ohio State University
+322,"Seoul, Korea: Sociology and Culture in Korea (Maymester)",multiple cities,South Korea,Asia,The Ohio State University
+323,"Shanghai, China: Food Chemistry in Chinese Cuisines (Maymester)",multiple cities,China,Asia,The Ohio State University
+324,Singapore: Business in Asia (Maymester),multiple cities,Malaysia,Asia,The Ohio State University
+325,Singapore: Business in Asia (Maymester),multiple cities,Singapore,Asia,The Ohio State University
+326,"Singapore: National University of Singapore, Dept EDSGN (Maymester)",Singapore,Singapore,Asia,The Ohio State University
+327,"Todi, Italy: Italian Language, History, and Culture (Summer)",multiple cities,Italy,Europe,The Ohio State University
+328,"Toronto, Canada: North American Politics (Summer)",Toronto,Canada,North America,The Ohio State University
+329,"West London, United Kingdom: Kinesiology, Youth Sport and Athletic Welfare (Summer)",London,United Kingdom,Europe,The Ohio State University
+330,"Zagreb, Croatia: Innovation and Entrepreneurship in Croatia (Maymester)",multiple cities,Croatia,Europe,The Ohio State University
+331,"Abington: Hof, University of Applied Sciences Hof
+(Exchange)",Hof,Germany,Europe,The Ohio State University
+332,AIFS: Barcelona (Maymester),Barcelona,Spain,Europe,The Ohio State University
+333,Arcadia STEM Summer Research,multiple cities,Ireland,Europe,The Ohio State University
+334,Arcadia STEM Summer Research,multiple cities,Italy,Europe,The Ohio State University
+335,Arcadia STEM Summer Research,multiple cities,Spain,Europe,The Ohio State University
+336,Arcadia STEM Summer Research,multiple cities,United Kingdom,Europe,The Ohio State University
+337,Arcadia: Arcadia in London + Internship,London,United Kingdom,Europe,The Ohio State University
+338,Arcadia: Arcadia in London + Internship (Summer),London,United Kingdom,Europe,The Ohio State University
+339,"Arcadia: Brisbane, University of Queensland",Brisbane,Australia,Oceania,The Ohio State University
+340,Arcadia: Edinburgh Napier University,Edinburgh,United Kingdom,Europe,The Ohio State University
+341,"Arcadia: Galway, University of Galway",Galway,Ireland,Europe,The Ohio State University
+342,"Arcadia: London, University of Westminster",London,United Kingdom,Europe,The Ohio State University
+343,"Auckland: University of Auckland
+(Exchange)",Auckland,New Zealand,Oceania,The Ohio State University
+344,"Brighton: University of Sussex
+(Exchange)",Brighton,United Kingdom,Europe,The Ohio State University
+345,Brighton: University of Sussex (Summer),Brighton,United Kingdom,Europe,The Ohio State University
+346,"Brno: Masaryk University, Research Lab (Summer)",Brno,Czech Republic,Europe,The Ohio State University
+347,CEA CAPA: French Riviera,Antibes,France,Europe,The Ohio State University
+348,CELA: Belize (Summer),Belize City,Belize,Latin America,The Ohio State University
+349,"Center for European Studies: Maastricht, Maastricht University",Maastricht,Netherlands,Europe,The Ohio State University
+350,CET: Brazil,Sao Paulo,Brazil,South America,The Ohio State University
+351,Christchurch: Lincoln University,Lincoln,New Zealand,Oceania,The Ohio State University
+352,CIEE: Alicante,Alicante,Spain,Europe,The Ohio State University
+353,CIEE: Amman,Amman,Jordan,Middle East,The Ohio State University
+354,"CIEE: Amman, Arabic Language (Summer)",Amman,Jordan,Middle East,The Ohio State University
+355,"CIEE: Amman, Middle East Studies (Summer)",Amman,Jordan,Middle East,The Ohio State University
+356,"CIEE: Cape Town, Arts and Sciences",Cape Town,South Africa,Africa,The Ohio State University
+357,"CIEE: Gaborone, Wildlife Ecology + Conservation (Summer)",Gaborone,Botswana,Africa,The Ohio State University
+358,CIEE: Legon,Legon,Ghana,Africa,The Ohio State University
+359,CIEE: Lisbon,Lisbon,Portugal,Europe,The Ohio State University
+360,CIEE: Open Campus,multiple cities,Argentina,multiple regions,The Ohio State University
+361,CIEE: Open Campus,multiple cities,Australia,multiple regions,The Ohio State University
+362,CIEE: Open Campus,multiple cities,Chile,multiple regions,The Ohio State University
+363,CIEE: Open Campus,multiple cities,China,multiple regions,The Ohio State University
+364,CIEE: Open Campus,multiple cities,Costa Rica,multiple regions,The Ohio State University
+365,CIEE: Open Campus,multiple cities,Czech Republic,multiple regions,The Ohio State University
+366,CIEE: Open Campus,multiple cities,Denmark,multiple regions,The Ohio State University
+367,CIEE: Open Campus,multiple cities,France,multiple regions,The Ohio State University
+368,CIEE: Open Campus,multiple cities,Germany,multiple regions,The Ohio State University
+369,CIEE: Open Campus,multiple cities,Ireland,multiple regions,The Ohio State University
+370,CIEE: Open Campus,multiple cities,Italy,multiple regions,The Ohio State University
+371,CIEE: Open Campus,multiple cities,Japan,multiple regions,The Ohio State University
+372,CIEE: Open Campus,multiple cities,Mexico,multiple regions,The Ohio State University
+373,CIEE: Open Campus,multiple cities,Netherlands,multiple regions,The Ohio State University
+374,CIEE: Open Campus,multiple cities,Singapore,multiple regions,The Ohio State University
+375,CIEE: Open Campus,multiple cities,South Africa,multiple regions,The Ohio State University
+376,CIEE: Open Campus,multiple cities,South Korea,multiple regions,The Ohio State University
+377,CIEE: Open Campus,multiple cities,Spain,multiple regions,The Ohio State University
+378,CIEE: Open Campus,multiple cities,United Kingdom,multiple regions,The Ohio State University
+379,CIEE: Prague,Prague,Czech Republic,Europe,The Ohio State University
+380,"CIEE: Santiago, Dominican Republic, Liberal Arts",Santiago,Dominican Republic,Latin America,The Ohio State University
+381,CIEE: Seoul,Seoul,South Korea,Asia,The Ohio State University
+382,CIEE: Seoul (Summer),Seoul,South Korea,Asia,The Ohio State University
+383,CIEE: Seville,Seville,Spain,Europe,The Ohio State University
+384,"CIEE: Seville, Language and Culture (Summer)",Seville,Spain,Europe,The Ohio State University
+385,CIEE: Shanghai,Shanghai,China,Asia,The Ohio State University
+386,CIEE: Shanghai (Summer),Shanghai,China,Asia,The Ohio State University
+387,CIEE: Singapore,Singapore,Singapore,Asia,The Ohio State University
+388,Connect 123: Buenos Aires Internship (Summer),Buenos Aires,Argentina,Latin America,The Ohio State University
+389,Connect 123: Cape Town Internship (Summer),Cape Town,South Africa,Africa,The Ohio State University
+390,Connect 123: Sydney Internship (Summer),Sydney,Australia,Oceania,The Ohio State University
+391,CRCC Asia: Seoul Internship (Summer),Seoul,South Korea,Asia,The Ohio State University
+392,CRCC Asia: Shanghai Internship (Summer),Shanghai,China,Asia,The Ohio State University
+393,CRCC Asia: Tokyo Internship (Summer),Tokyo,Japan,Asia,The Ohio State University
+394,CzechMates: Brno,Brno,Czech Republic,Europe,The Ohio State University
+395,"CzechMates: Brno, Internship and Summer Course (Summer)",multiple cities,Austria,Europe,The Ohio State University
+396,"CzechMates: Brno, Internship and Summer Course (Summer)",multiple cities,Czech Republic,Europe,The Ohio State University
+397,"CzechMates: Brno, Internship and Summer Course (Summer)",multiple cities,Hungary,Europe,The Ohio State University
+398,"CzechMates: Brno, Internship and Summer Course (Summer)",multiple cities,Poland,Europe,The Ohio State University
+399,"Dept AGR: Nottingham, University of Nottingham
+(Exchange)",Nottingham,United Kingdom,Europe,The Ohio State University
+400,"Dept ARCH: Rome, Pantheon Institute, Architecture",Rome,Italy,Europe,The Ohio State University
+401,"Dept ENGR & EMS: Sendai, Tohoku University
+(Exchange)",Sendai,Japan,Asia,The Ohio State University
+402,"Dept ENGR & EMS: Sendai, Tohoku University STEM Summer Program (Summer)",Sendai,Japan,Asia,The Ohio State University
+403,"Dept ENGR: Haifa, Technion Institute of Technology
+(Exchange)",Haifa,Israel,Middle East,The Ohio State University
+404,"Dept ENGR: Jonkoping, Jonkoping University, Engineering
+(Exchange)",Jonkoping,Sweden,Europe,The Ohio State University
+405,"Dept ENGR: Lyon, INNOV@INSA (Summer)",Lyon,France,Europe,The Ohio State University
+406,Dept ENGR: Pforzheim Engineers Made in Germany (Summer),Pforzheim,Germany,Europe,The Ohio State University
+407,"Dept ENGR: San Sebastian, Tecnun University of Navarra
+(Exchange)",San Sebastian,Spain,Europe,The Ohio State University
+408,"Dept ENGR: Southampton, University of Southampton
+(Exchange)",Southampton,United Kingdom,Europe,The Ohio State University
+409,"Dept Kines: Loughborough, Loughborough University
+(Exchange)",Loughborough,United Kingdom,Europe,The Ohio State University
+410,"Dept LARCH: Bonn, AIB",Bonn,Germany,Europe,The Ohio State University
+411,"Dept MARSC: Southampton, University of Southampton
+(Exchange)",Southampton,United Kingdom,Europe,The Ohio State University
+412,"DIS: Copenhagen, Study in Copenhagen",Copenhagen,Denmark,Europe,The Ohio State University
+413,"DIS: Stockholm, Study in Stockholm",Stockholm,Sweden,Europe,The Ohio State University
+414,DIS: Summer in Scandinavia (Summer),multiple cities,Denmark,Europe,The Ohio State University
+415,DIS: Summer in Scandinavia (Summer),multiple cities,Sweden,Europe,The Ohio State University
+416,Dublin: University College Dublin,Dublin,Ireland,Europe,The Ohio State University
+417,Dublin: University College Dublin Organic Chemistry Program (Summer),Dublin,Ireland,Europe,The Ohio State University
+418,Dublin: University College Dublin Physics Program (Summer),Dublin,Ireland,Europe,The Ohio State University
+419,Dubrovnik: Rochester Institute of Technology (RIT),Dubrovnik,Croatia,Europe,The Ohio State University
+420,Florence and Elba: Marine Biology in Italy (Maymester),multiple cities,Italy,Europe,The Ohio State University
+421,Florence: Florence University of the Arts,Florence,Italy,Europe,The Ohio State University
+422,Florence: Florence University of the Arts (Maymester and Summer),Florence,Italy,Europe,The Ohio State University
+423,Florence: International Studies Institute (ISI) at Palazzo Rucellai,Florence,Italy,Europe,The Ohio State University
+424,Florence: International Studies Institute (ISI) at Palazzo Rucellai (Summer),Florence,Italy,Europe,The Ohio State University
+425,"Freiburg, University of Freiburg
+(Exchange)",Freiburg,Germany,Europe,The Ohio State University
+426,"Freiburg: Goethe-Institut, Intensive German Culture and Language (Summer)",Freiburg,Germany,Europe,The Ohio State University
+427,"Glasgow: University of Glasgow, College of Medical Veterinary & Life Sciences",Glasgow,United Kingdom,Europe,The Ohio State University
+428,"Gold Coast, Bond University",Gold Coast,Australia,Oceania,The Ohio State University
+429,Haifa: University of Haifa,Haifa,Israel,Middle East,The Ohio State University
+430,Hamilton: University of Waikato,Hamilton,New Zealand,Oceania,The Ohio State University
+431,"Harrisburg: Darmstadt, Hochschule Darmstadt University of Applied Sciences
+(Exchange)",Darmstadt,Germany,Europe,The Ohio State University
+432,"Hong Kong: Chinese University of Hong Kong
+(Exchange)",Hong Kong,Hong Kong,Asia,The Ohio State University
+433,"Hong Kong: Hong Kong Polytechnic University
+(Exchange)",Hong Kong,Hong Kong,Asia,The Ohio State University
+434,IAU: Aix-en-Provence Campus,Aix-en-Provence,France,Europe,The Ohio State University
+435,IAU: Aix-en-Provence Campus (Summer),Aix-en-Provence,France,Europe,The Ohio State University
+436,IES: Amsterdam,Amsterdam,Netherlands,Europe,The Ohio State University
+437,IES: Barcelona,Barcelona,Spain,Europe,The Ohio State University
+438,"IES: Barcelona, Engineering",Barcelona,Spain,Europe,The Ohio State University
+439,"IES: Barcelona, Language and Area Studies Program (Summer)",Barcelona,Spain,Europe,The Ohio State University
+440,IES: Berlin Internship Program (Summer),Berlin,Germany,Europe,The Ohio State University
+441,"IES: Berlin, English Taught Programs",Berlin,Germany,Europe,The Ohio State University
+442,"IES: Berlin, Language and Culture (Summer)",Berlin,Germany,Europe,The Ohio State University
+443,"IES: Berlin, Language, Culture, & Politics",Berlin,Germany,Europe,The Ohio State University
+444,"IES: Buenos Aires and Santiago, Emerging Economies",multiple cities,Argentina,Latin America,The Ohio State University
+445,"IES: Buenos Aires and Santiago, Emerging Economies",multiple cities,Chile,Latin America,The Ohio State University
+446,"IES: Buenos Aires and Santiago, Emerging Economies",multiple cities,Peru,Latin America,The Ohio State University
+447,"IES: Buenos Aires, Advanced Spanish Immersion",Buenos Aires,Argentina,Latin America,The Ohio State University
+448,"IES: Buenos Aires, Culture & Language (Summer)",Buenos Aires,Argentina,Latin America,The Ohio State University
+449,"IES: Buenos Aires, Society & Culture",Buenos Aires,Argentina,Latin America,The Ohio State University
+450,"IES: Cape Town, Engineering & Science",Cape Town,South Africa,Africa,The Ohio State University
+451,"IES: Cape Town, Health, Culture & Development",Cape Town,South Africa,Africa,The Ohio State University
+452,IES: Dublin Internship (Summer),Dublin,Ireland,Europe,The Ohio State University
+453,"IES: Dublin, Engineering",Dublin,Ireland,Europe,The Ohio State University
+454,"IES: Dublin, History, Politics, & Social Change",Dublin,Ireland,Europe,The Ohio State University
+455,"IES: Dublin, Trinity College Program",Dublin,Ireland,Europe,The Ohio State University
+456,"IES: Freiburg, Environmental Studies & Sustainability",Freiburg,Germany,Europe,The Ohio State University
+457,"IES: Freiburg, Politics, Law, & Economics",Freiburg,Germany,Europe,The Ohio State University
+458,"IES: Granada, Liberal Arts & Language",Granada,Spain,Europe,The Ohio State University
+459,IES: London Internship (Summer),London,United Kingdom,Europe,The Ohio State University
+460,"IES: London, City St. George's, University of London",London,United Kingdom,Europe,The Ohio State University
+461,"IES: London, Health Practice & Policy",multiple cities,Jamaica,multiple regions,The Ohio State University
+462,"IES: London, Health Practice & Policy",multiple cities,United Kingdom,multiple regions,The Ohio State University
+463,"IES: London, Queen Mary University",London,United Kingdom,Europe,The Ohio State University
+464,"IES: London, Study London",London,United Kingdom,Europe,The Ohio State University
+465,"IES: London, University College London",London,United Kingdom,Europe,The Ohio State University
+466,"IES: Madrid, Business, Economics & Social Sciences",Madrid,Spain,Europe,The Ohio State University
+467,"IES: Madrid, Engineering, Math, and Science",Madrid,Spain,Europe,The Ohio State University
+468,"IES: Madrid, Language & Cultural Studies (Summer)",Madrid,Spain,Europe,The Ohio State University
+469,"IES: Madrid, Language and Area Studies",Madrid,Spain,Europe,The Ohio State University
+470,IES: Milan,Milan,Italy,Europe,The Ohio State University
+471,"IES: Nagoya, Language and Culture (Summer)",Nagoya,Japan,Asia,The Ohio State University
+472,"IES: Nagoya, Nanzan University",Nagoya,Japan,Asia,The Ohio State University
+473,"IES: Oxford, St. Catherine's College",multiple cities,United Kingdom,Europe,The Ohio State University
+474,IES: Paris Internship Program (Summer),Paris,France,Europe,The Ohio State University
+475,"IES: Paris, Business and International Affairs",Paris,France,Europe,The Ohio State University
+476,"IES: Paris, French Studies Program",Paris,France,Europe,The Ohio State University
+477,"IES: Rabat, Study in Rabat",Rabat,Morocco,Middle East,The Ohio State University
+478,IES: Rome,Rome,Italy,Europe,The Ohio State University
+479,IES: Rome Internship Program (Summer),Rome,Italy,Europe,The Ohio State University
+480,"IES: Salamanca, Study in Salamanca",Salamanca,Spain,Europe,The Ohio State University
+481,IES: Santiago Internship Program (Summer),Santiago,Chile,Latin America,The Ohio State University
+482,"IES: Santiago, Chile, Health Studies",Santiago,Chile,Latin America,The Ohio State University
+483,"IES: Santiago, Chile, Politics, Social Justice & Language",Santiago,Chile,Latin America,The Ohio State University
+484,"IES: Santiago, Health Studies (Summer)",Santiago,Chile,Latin America,The Ohio State University
+485,"IES: Siena, Business & Economics of Italian Food & Wine",Siena,Italy,Europe,The Ohio State University
+486,"IES: Siena, Study in Tuscany",Siena,Italy,Europe,The Ohio State University
+487,"IES: Sydney, The University of Sydney",Sydney,Australia,Oceania,The Ohio State University
+488,IES: Tokyo (Summer),Tokyo,Japan,Asia,The Ohio State University
+489,"IES: Tokyo, Language and Culture",Tokyo,Japan,Asia,The Ohio State University
+490,IES: Vienna,Vienna,Austria,Europe,The Ohio State University
+491,IES: Vienna Internship (Summer),Vienna,Austria,Europe,The Ohio State University
+492,IES: Vienna Music History and Performance (Summer),Vienna,Austria,Europe,The Ohio State University
+493,"IES: Vienna, Music Program",Vienna,Austria,Europe,The Ohio State University
+494,"IES: Vienna, Psychology (Summer)",Vienna,Austria,Europe,The Ohio State University
+495,"IFE: Field Study in Marseille, Paris and Strasbourg",multiple cities,France,Europe,The Ohio State University
+496,ISA: EuroScholars,multiple cities,Belgium,Europe,The Ohio State University
+497,ISA: EuroScholars,multiple cities,Netherlands,Europe,The Ohio State University
+498,ISA: EuroScholars,multiple cities,Switzerland,Europe,The Ohio State University
+499,ISA: Madrid Internship (Summer),Madrid,Spain,Europe,The Ohio State University
+500,"Kuala Lumpur: Monash University Malaysia
+(Exchange)",Kuala Lumpur,Malaysia,Asia,The Ohio State University
+501,"Leeds: University of Leeds
+(Exchange)",Leeds,United Kingdom,Europe,The Ohio State University
+502,Leeds: University of Leeds (Summer),multiple cities,United Kingdom,Europe,The Ohio State University
+503,Limerick: University of Limerick,Limerick,Ireland,Europe,The Ohio State University
+504,"London: FSU, Theatre Academy London",London,United Kingdom,Europe,The Ohio State University
+505,"Marburg: Philipps University, Intensive German Studies Program",Marburg,Germany,Europe,The Ohio State University
+506,"Marburg: Philipps University, International Summer University (Summer)",Marburg,Germany,Europe,The Ohio State University
+507,"Marburg: Philipps University, International Undergraduate Study Program",Marburg,Germany,Europe,The Ohio State University
+508,"Melbourne: Monash University
+(Exchange)",Melbourne,Australia,Oceania,The Ohio State University
+509,"Melbourne: University of Melbourne
+(Exchange)",Melbourne,Australia,Oceania,The Ohio State University
+510,"Mito: Ibaraki University
+(Exchange)",Mito,Japan,Asia,The Ohio State University
+511,Paris: AgroParisTech Summer Internship (Summer),Paris,France,Europe,The Ohio State University
+512,Perreault Fellows Program: International Internship and Global Leadership Fellowship,Various,Various,Various,The Ohio State University
+513,Perugia: Umbra Institute,Perugia,Italy,Europe,The Ohio State University
+514,Perugia: Umbra Trasimeno Archaeology Field School (Summer),Perugia,Italy,Europe,The Ohio State University
+515,Remote Internship: IES Abroad,Virtual,Virtual,Virtual,The Ohio State University
+516,"Seoul & Suwon: Sungkyunkwan University
+(Exchange)",multiple cities,South Korea,Asia,The Ohio State University
+517,"Seoul: Sogang University
+(Exchange)",Seoul,South Korea,Asia,The Ohio State University
+518,"Seoul: Sungkyunkwan University, International Summer Semester (Summer)",Seoul,South Korea,Asia,The Ohio State University
+519,SFS: Australia,Yungaburra,Australia,Oceania,The Ohio State University
+520,SFS: Australia (Summer),multiple cities,Australia,multiple regions,The Ohio State University
+521,SFS: Australia (Summer),multiple cities,Indonesia,multiple regions,The Ohio State University
+522,SFS: Bhutan,multiple cities,Bhutan,Asia,The Ohio State University
+523,SFS: Cambodia,Siem Reap,Cambodia,Asia,The Ohio State University
+524,SFS: Costa Rica,Atenas,Costa Rica,Latin America,The Ohio State University
+525,SFS: Kenya,multiple cities,Kenya,Africa,The Ohio State University
+526,SFS: Kenya,multiple cities,Rwanda,Africa,The Ohio State University
+527,SFS: Panama,Bocas del Toro,Panama,Latin America,The Ohio State University
+528,SFS: Tanzania,Rhotia,Tanzania,Africa,The Ohio State University
+529,"SFS: Tanzania and Kenya, Wildlife Management & Conservation (Summer)",multiple cities,Kenya,Africa,The Ohio State University
+530,"SFS: Tanzania and Kenya, Wildlife Management & Conservation (Summer)",multiple cities,Tanzania,Africa,The Ohio State University
+531,SFS: Turks and Caicos (Summer),Grand Turk,Turks and Caicos Islands,Latin America,The Ohio State University
+532,"Singapore: National University of Singapore
+(Exchange)",Singapore,Singapore,Asia,The Ohio State University
+533,SRAS: Intensive Russian Language & Culture (Summer),Riga,Latvia,Europe,The Ohio State University
+534,"Sydney: University of New South Wales
+(Exchange)",Sydney,Australia,Oceania,The Ohio State University
+535,"Tel Aviv: Tel Aviv University, Semester or Year Study Abroad Program",Tel Aviv,Israel,Middle East,The Ohio State University
+536,Temple: Rome,Rome,Italy,Europe,The Ohio State University
+537,The GREEN Program: Iceland (Summer),Reykjavik,Iceland,Europe,The Ohio State University
+538,The GREEN Program: Peru (Summer),Cusco,Peru,South America,The Ohio State University
+539,"Thessaloniki, Greece: Perrotis College (Summer)",Thessaloniki,Greece,Europe,The Ohio State University
+540,"University of Minnesota LAC: Ecuador, Studies in International Development",Quito,Ecuador,South America,The Ohio State University
+541,"University of Minnesota LAC: Montpellier, Language & Culture in Southern France",Montpellier,France,Europe,The Ohio State University
+542,"University of Minnesota LAC: Senegal, Studies in International Development",Dakar,Senegal,Africa,The Ohio State University
+543,"University of Minnesota LAC: Thailand, Studies in International Development",Chiang Mai,Thailand,Asia,The Ohio State University
+544,"Valencia: University of Virginia, Engineering",Valencia,Spain,Europe,The Ohio State University
+545,"Valencia: University of Virginia, Global Health (Summer)",Valencia,Spain,Europe,The Ohio State University
+546,"Valencia: University of Virginia, Language and Culture",Valencia,Spain,Europe,The Ohio State University
+547,Virtual Internship: Connect 123,multiple cities,Argentina,multiple regions,The Ohio State University
+548,Virtual Internship: Connect 123,multiple cities,Australia,multiple regions,The Ohio State University
+549,Virtual Internship: Connect 123,multiple cities,China,multiple regions,The Ohio State University
+550,Virtual Internship: Connect 123,multiple cities,Ireland,multiple regions,The Ohio State University
+551,Virtual Internship: Connect 123,multiple cities,South Africa,multiple regions,The Ohio State University
+552,Virtual Internship: Connect 123,multiple cities,Spain,multiple regions,The Ohio State University
+553,Virtual Internship: Connect 123,multiple cities,Virtual,multiple regions,The Ohio State University
+554,"Wellington: Victoria University of Wellington
+(Exchange)",Wellington,New Zealand,Oceania,The Ohio State University
