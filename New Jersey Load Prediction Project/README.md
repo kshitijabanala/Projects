@@ -9,6 +9,18 @@
 
 
 
+For utility and energy production companies, predicting energy usage helps to accurately forecast and manage resources better. 
+New Jersey includes four utilities: Jersey Central Power & Light, Rockland Electric Company, PSE&G and Atlantic City Electric. 
+These utilities provide power to various sections of the state. 
+They require constant knowledge of how much power is being utilized and how much they will need to provide. 
+This project aims to forecast energy usage for New Jersey’s utility companies using weather, date category, and energy usage data. 
+The findings of our project showed the potential of using a LightGBM model for energy forecasting. 
+Here we show that the most significant features of predicting energy usage are temperature, humidity and pressure. 
+Originally, it was assumed that the winter and summer months would prove to be more significant than other features within the date category data. 
+However, they were not as significant as weekday, which was the most significant from this data. 
+Overall, we can hypothesize that energy usage is best predicted through temperature, pressure and humidity. 
+This work can be used by future utilities and energy producers to estimate anticipated demand, ultimately leading to bettering environmental issues and decreasing energy overproduction.
+
 
 ### Project Overview
 
