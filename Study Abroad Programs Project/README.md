@@ -116,4 +116,3 @@ This project demonstrates the feasibility and value of creating a unified databa
 Beyond its immediate benefits, this project lays the foundation for a more interconnected and efficient approach to managing study abroad programs. As global learning continues to grow in importance within higher education, tools like this database will play a critical role in fostering engagement and enhancing the reach of international programs. Ultimately, this database not only promotes accessibility and standardization but also encourages greater participation in global learning experiences, enriching the academic and cultural journeys of students worldwide
 ![image](https://github.com/user-attachments/assets/9b8086b7-53a6-4b12-9883-18b3e27707f2)
 
-
