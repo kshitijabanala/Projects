@@ -11,6 +11,7 @@
 ### 4. Data Modeling
 #### Datasets Visualizations
 ### 6. Model Performance
+#### LightGBM Model
 ### 7. Conclusion
 
 ### Project Overview
@@ -57,9 +58,16 @@ LightGBM emerged as the best choice for our project due to its numerous advantag
 
 ### Model Performance
 
+#### LightGBM Model
+
+<img width="635" alt="image" src="https://github.com/user-attachments/assets/669c92fc-a8c9-41b2-8fb7-0e40f5fd8948" />
+
+<img width="661" alt="image" src="https://github.com/user-attachments/assets/0b53b5ea-2b2c-49e8-81f1-a79eadf136d1" />
+
 ![image](https://github.com/user-attachments/assets/96c6c506-091b-4cd6-a1d9-d1fef64997b2)
 
 ![image](https://github.com/user-attachments/assets/02e0c199-11e8-4977-b03c-881a13cfde31)
+
 
 ### Conclusion
 Our analysis of the feature importance results from the LightGBM load regression model has provided valuable insights into the key drivers of energy consumption for the four
