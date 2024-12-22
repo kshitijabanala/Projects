@@ -1,7 +1,0 @@
-This project aims to integrate study abroad program data from Penn State University (PSU)
-and Ohio State University (OSU) into a unified and queryable schema. By web scraping
-public program tables, cleaning inconsistencies, and structuring the data into an SQLite
-database, we developed a comprehensive database that enables efficient querying and
-analysis. Queries demonstrated insights such as program distributions by region, college, and
-location. This work highlights the power of data integration and the importance of
-standardizing schema to support multi-source data analysis.
