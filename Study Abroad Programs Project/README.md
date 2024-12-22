@@ -18,7 +18,7 @@
 </p>
 
 
-This project integrates study abroad program data from **Penn State University (PSU)** and **Ohio State University (OSU)** into a unified and queryable schema. By web scraping public program tables, cleaning inconsistencies, and structuring the data into an SQLite database, we developed a comprehensive database for efficient querying and analysis.  
+This project integrates study abroad program data from **Penn State University (PSU)** and **Ohio State University (OSU)** into a unified and queryable schema. By web scraping public program tables, cleaning inconsistencies, and structuring the data into an SQLite database, I developed a comprehensive database for efficient querying and analysis.  
 
 Key queries provided insights into:  
 - Program distributions by **region**, **college**, and **location**.  
@@ -110,6 +110,5 @@ Here we examined the distribution of programs by college and country. The analys
 
 ## Conclusion
 
-This project demonstrates the feasibility and value of creating a unified database for study abroad programs. By integrating data from PSU and OSU, we have streamlined the research process for students and provided universities with a powerful analytical tool. The system simplifies the discovery of study abroad opportunities, empowering students to make informed decisions and promoting international education.
-Beyond its immediate benefits, this project lays the foundation for a more interconnected and efficient approach to managing study abroad programs. As global learning continues to grow in importance within higher education, tools like this database will play a critical role in fostering engagement and enhancing the reach of international programs. Ultimately, this database not only promotes accessibility and standardization but also encourages greater participation in global learning experiences, enriching the academic and cultural journeys of students worldwide. 
+This project demonstrates the feasibility and value of creating a unified database for study abroad programs. By integrating data from PSU and OSU, we have streamlined the research process for students and provided universities with a powerful analytical tool. The system simplifies the discovery of study abroad opportunities, empowering students to make informed decisions and promoting international education. Beyond its immediate benefits, this project lays the foundation for a more interconnected and efficient approach to managing study abroad programs. As global learning continues to grow in importance within higher education, tools like this database will play a critical role in fostering engagement and enhancing the reach of international programs. Ultimately, this database not only promotes accessibility and standardization but also encourages greater participation in global learning experiences, enriching the academic and cultural journeys of students worldwide. 
 
