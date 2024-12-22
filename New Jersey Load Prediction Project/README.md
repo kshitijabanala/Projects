@@ -14,7 +14,7 @@
 #### LightGBM Model
 ### 7. Conclusion
 
-### 1. Project Overview
+### Project Overview
 
 For utility and energy production companies, predicting energy usage helps to accurately forecast and manage resources better. New Jersey includes four utilities: Jersey Central Power & Light, Rockland Electric Company, PSE&G and Atlantic City Electric. These utilities provide power to various sections of the state. They require constant knowledge of how much power is being utilized and how much they will need to provide. This project aims to forecast energy usage for New Jersey’s utility companies using weather, date category, and energy usage data. The findings of our project showed the potential of using a LightGBM model for energy forecasting. Here we show that the most significant features of predicting energy usage are temperature, humidity and pressure. 
 Originally, it was assumed that the winter and summer months would prove to be more significant than other features within the date category data. However, they were not as significant as weekday, which was the most significant from this data. Overall, we can hypothesize that energy usage is best predicted through temperature, pressure and humidity. This work can be used by future utilities and energy producers to estimate anticipated demand, ultimately leading to bettering environmental issues and decreasing energy overproduction.
@@ -69,6 +69,6 @@ LightGBM emerged as the best choice for our project due to its numerous advantag
 ![image](https://github.com/user-attachments/assets/02e0c199-11e8-4977-b03c-881a13cfde31)
 
 
-### 7. Conclusion
+### Conclusion
 Our analysis of the feature importance results from the LightGBM load regression model has provided valuable insights into the key drivers of energy consumption for the four
 utility companies of PSEG, RECO, RCPL, and ACE along with their two utility classes, RSCP and CIEP. Atmospheric pressure emerged as the most significant factor, followed by temperature and humidity, highlighting the critical role of weather conditions in influencing energy demand. These findings emphasize the importance of selecting appropriate features for forecasting models to ensure accurate predictions. In conclusion, we aim to enhance the technical aspects of energy forecasting but also strive to deliver tangible benefits for the people of New Jersey, contributing to a more efficient and sustainable energy future.
