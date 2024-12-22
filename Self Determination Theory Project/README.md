@@ -10,6 +10,10 @@
 
 ### Project Overview
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/63e2d676-2d2a-42a8-8f8f-fa08de1be7a6" alt="image" width="700">
+</p>
+
 # Self-Determination Theory and Workplace Well-Being
 
 Evidence shows that **Self-Determination Theory (SDT)** is a robust and effective framework for understanding human motivation and well-being, particularly in workplace settings (Deci, 2000). This study builds on that foundation by utilizing data from the **Midlife in the United States (MIDUS)** study, which included a total of **2,344 participants**.
