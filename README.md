@@ -1,4 +1,2 @@
-This repository holds the below projects. 
-
-ADD FINAL LINKS 
+This repository holds my data science and statistical analysis projects. 
 
