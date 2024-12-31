@@ -74,9 +74,8 @@ The analysis is augmented with advanced predictive techniques and geospatial tre
   - Dynamic Filters for user selection of `Provider State` and `Hospital Referral Region`.
   - Cards representing the total avergae coverage charges, average medicare payments, and average total payments.
   - Bar graph represeneing the number of hospital referalls by provider cities along with providers
- 
-
-<img width="1294" alt="Screenshot 2024-12-29 at 1 14 47 PM" src="https://github.com/user-attachments/assets/e04ce66d-27f3-4593-93d8-2ca351b6e2fe" />
+  
+ <img width="977" alt="Screenshot 2024-12-31 at 2 14 38 PM" src="https://github.com/user-attachments/assets/e960589f-a652-4a53-99c6-752b5277c371" />
 
 ## Analysis
 
