@@ -12,13 +12,13 @@
 
 ---
 
-## Business Problem
+## 1. Business Problem
 Understanding the drivers of variation in Medicare payments is critical for ensuring cost efficiency and equitable distribution of resources in the healthcare system. This analysis focuses on how provider-related characteristics, such as hospital referral regions, DRG definitions, and provider states, influence the total Medicare payments for medical services. By identifying key factors contributing to payment disparities, the goal is to provide actionable insights to optimize payment structures and improve healthcare delivery.
 
-## Research Question
+## 2. Research Question
 **How do provider-related characteristics, such as hospital referral region, DRG definition, and provider state, influence average total Medicare payments for medical services?**
 
-## Analysis Process
+## 3. Analysis Process
 ### Data Exploration
 The dataset used is the **Medicare 2017 Charge Data**, which includes the following key variables:
 
@@ -45,7 +45,7 @@ The key variables are:
 4. **Geospatial Trends**: Mapped regional disparities in payments to identify high-cost areas.
 5. **Predictive Modeling**: Built models to forecast high-cost regions and procedures based on provider characteristics and DRG definitions.
 
-## Results
+## 4. Results
 ### Key Findings
 1. **Top Influencers of Payments**:
    - **DRG Definition**: High-cost DRGs, such as heart transplants, increase average total payments by approximately $253.5K.
@@ -72,7 +72,7 @@ Lastly, there was a significant difference between average Medicare payments, wh
 - **Referrals and Costs**: Chicago has the most hospital referrals, reflecting a fragmented healthcare system. In contrast, Washington's integrated system leads to lower total payments.
 - **Public vs. Private Contributions**: Total payments often depend on private insurance or out-of-pocket expenses, highlighting gaps in Medicare reimbursements.
 
-## Recommendations
+## 5. Recommendations
 ### Short-Term
 1. Standardize reporting metrics across regions and use DRG-specific benchmarks to identify outliers.
 2. Investigate high-payment regions for inefficiencies and disparities, promoting resource equity.
@@ -81,7 +81,7 @@ Lastly, there was a significant difference between average Medicare payments, wh
 1. Integrate multi-year data to track trends and predict future payment patterns.
 2. Develop predictive models using advanced machine learning techniques to identify high-cost regions and procedures.
 
-## Implementation
+## 6. Implementation
 ### Power BI Dashboard Features
 1. **Key Influencers**: Highlight top factors affecting payments.
 2. **Geospatial Trends**: Map state and regional disparities.
@@ -90,10 +90,10 @@ Lastly, there was a significant difference between average Medicare payments, wh
 
  <img width="977" alt="Screenshot 2024-12-31 at 2 14 38 PM" src="https://github.com/user-attachments/assets/e960589f-a652-4a53-99c6-752b5277c371" />
 
-## Future Work
+## 7. Future Work
 1. **Time Series Trends**: Analyze multi-year data to forecast payment patterns.
 2. **Policy Impact Analysis**: Assess the effects of Medicare policy changes on provider payments.
 3. **Enhanced Predictive Modeling**: Use external data, such as patient demographics, for better forecasts.
 
-## Conclusion
+## 8. Conclusion
 My analysis provides a comprehensive overview of Medicare payments and the key drivers behind these costs. By leveraging advanced analytics and visualization tools, I have been able to identify the main factors influencing the variation in Medicare payments, such as regional differences, provider practices, and the role of private insurance in supplementing Medicare reimbursements. Through this approach, I have uncovered valuable insights into how these factors interact and contribute to the overall cost structure within the healthcare system. In particular, I have highlighted areas where disparities exist between Medicare and total payments, offering actionable insights for stakeholders such as policymakers, healthcare providers, and insurers. These insights can help guide future decisions to improve cost efficiency, reduce payment disparities, and enhance the overall healthcare delivery model. By understanding these underlying drivers, stakeholders can better align their strategies to ensure more equitable and sustainable healthcare outcomes.
