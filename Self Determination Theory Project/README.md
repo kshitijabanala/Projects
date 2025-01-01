@@ -1,3 +1,5 @@
+# Self Determination Theory
+
 ## Table of Contents
 
 ### 1. Project Overview
