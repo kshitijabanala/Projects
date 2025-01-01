@@ -2,11 +2,11 @@
 
 ## Table of Contents
 
-### 1. Project Overview
-### 2. Literature Review
-### 3. Methodology
-### 4. EDA Steps
-### 5. Results
+1. [Project Overview](#project-overview)
+2. [Literature Review](#literature-review)
+3. [Methodology](#methodology)
+4. [EDA Steps](#EDA-steps)
+5. [Results](#results)
 ---
 
 
