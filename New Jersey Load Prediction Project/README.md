@@ -1,11 +1,11 @@
 # Table of Contents
 
-### 1. Project Overview
-### 2. Data Preprocessing and Cleaning
-### 3. Literature Review
-### 4. Data Modeling
-### 5. Model Performance
-### 6. Conclusion
+### 1. [Project Overview](#project-overview)
+### 2. [Data Preprocessing and Cleaning](#data-preprocessing-and-cleaning)
+### 3. [Literature Review](#literature-review)
+### 4. [Data Modeling](#data-modeling)
+### 5. [Model Performance](#model-performance)
+### 6. [Conclusion](#conclusion)
 ---
 
 
