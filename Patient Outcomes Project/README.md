@@ -14,7 +14,7 @@
 ## Business Problem
 Understanding the drivers of variation in Medicare payments is critical for ensuring cost efficiency and equitable distribution of resources in the healthcare system. This analysis focuses on how provider-related characteristics, such as hospital referral regions, DRG definitions, and provider states, influence the total Medicare payments for medical services. By identifying key factors contributing to payment disparities, the goal is to provide actionable insights to optimize payment structures and improve healthcare delivery.
 
-## Research Question
+### Research Question
 **How do provider-related characteristics, such as hospital referral region, DRG definition, and provider state, influence average total Medicare payments for medical services?**
 
 ## Analysis Process
