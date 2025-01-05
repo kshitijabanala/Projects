@@ -253,7 +253,8 @@ To answer the research question, Diet quality and medication adherence are the m
    - Socioeconomic Status
    - Medication Adherence
 
-![Screenshot 2025-01-04 at 7 24 23 PM](https://github.com/user-attachments/assets/904f4ecc-9f7e-4719-b69d-eef0dc357d51)
+![Screenshot 2025-01-04 at 7 37 41 PM](https://github.com/user-attachments/assets/decc89c8-d1de-4c6c-a39e-33a8d74e5745)
+
 
 ## 8. Future Work
 
