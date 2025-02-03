@@ -142,7 +142,7 @@ What factors (quality of life, diet quality, blood pressure, cholesterol risk, s
   - `1`: Yes
 
 ## 4. Feature Engineering
-I modified the variables above as follows in order to make my analysis more meaningful. I converted the binary variables into categorical variables so that I could work with the context behind the 0 and 1 values. I also combined certain variables to create new variables, including **Risk Level** by creating BMI ranges and **Age Range** by creating Age ranges and categorizing these variables as specified below. 
+I modified the variables above as follows in order to make my analysis more meaningful. I converted the binary variables into categorical variables so that I could work with the context behind the 0 and 1 values. I also combined certain variables to create new variables, including **Risk Level** by creating BMI ranges and **Age Range** and categorizing these variables as specified below. 
 
 #### Demographic Details
 - **AgeRange:** Age group:
